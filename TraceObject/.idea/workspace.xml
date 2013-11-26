@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b2e6d0e-da3e-4797-9fcd-9e6a60a70688" name="Default" comment="" />
+    <list default="true" id="9b2e6d0e-da3e-4797-9fcd-9e6a60a70688" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TraceObject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +29,7 @@
       <file leaf-file-name="Trace.h" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="26" column="9" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding>
                 <element signature="e#146#165#0" expanded="true" />
               </folding>
@@ -34,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.cpp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.cpp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
+            <state line="27" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
               <folding>
                 <element signature="e#139#158#0" expanded="true" />
               </folding>
@@ -45,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Trace.cpp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Trace.cpp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TraceObject/Trace.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="7" column="12" selection-start="137" selection-end="137" vertical-scroll-proportion="0.13962767" vertical-offset="0" max-vertical-offset="752">
               <folding />
             </state>
           </provider>
@@ -60,6 +63,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -76,7 +87,7 @@
     <option name="width" value="1427" />
     <option name="height" value="874" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -138,8 +149,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="TraceObject" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.TraceObject">
     <configuration default="false" name="TraceObject" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="TraceObject" PROJECT_NAME="TraceObject" TARGET_NAME="TraceObject" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="TraceObject" RUN_TARGET_NAME="TraceObject" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
@@ -147,6 +162,14 @@
       <method />
     </configuration>
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="TraceObject" TARGET_NAME="TraceObject" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="TraceObject" RUN_TARGET_NAME="TraceObject" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="TraceObject" TARGET_NAME="TraceObject" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
       <envs />
       <method />
     </configuration>
@@ -220,9 +243,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding>
+            <element signature="e#139#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+        <state line="26" column="9" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <folding>
             <element signature="e#146#165#0" expanded="true" />
           </folding>
@@ -231,17 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TraceObject/Trace.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+        <state line="7" column="12" selection-start="137" selection-end="137" vertical-scroll-proportion="0.13962767" vertical-offset="0" max-vertical-offset="752">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
-          <folding>
-            <element signature="e#139#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
