@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b2e6d0e-da3e-4797-9fcd-9e6a60a70688" name="Default" comment="" />
+    <list default="true" readonly="true" id="9b2e6d0e-da3e-4797-9fcd-9e6a60a70688" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TraceObject.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,13 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Trace.h" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
+      <file leaf-file-name="Trace.cpp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TraceObject/Trace.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <folding>
-                <element signature="e#146#165#0" expanded="true" />
-              </folding>
+            <state line="37" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="645">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,18 +38,16 @@
       <file leaf-file-name="main.cpp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
-              <folding>
-                <element signature="e#139#158#0" expanded="true" />
-              </folding>
+            <state line="27" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Trace.cpp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TraceObject/Trace.cpp">
+      <file leaf-file-name="Trace.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -60,6 +59,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -76,7 +83,7 @@
     <option name="width" value="1427" />
     <option name="height" value="874" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -138,11 +145,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="TraceObject" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.TraceObject">
-    <configuration default="false" name="TraceObject" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="TraceObject" PROJECT_NAME="TraceObject" TARGET_NAME="TraceObject" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="TraceObject" RUN_TARGET_NAME="TraceObject" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <configuration default="false" name="TraceObject" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="TraceObject" PROJECT_NAME="TraceObject" TARGET_NAME="TraceObject" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="TraceObject" RUN_TARGET_NAME="TraceObject" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <method />
     </configuration>
@@ -177,6 +188,7 @@
     <option name="IGNORE_EXTERNALS" value="false" />
     <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -190,22 +202,22 @@
     <frame x="2" y="22" width="1427" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -220,12 +232,31 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TraceObject/Trace.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="4" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TraceObject/Trace.h">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="46" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding>
-            <element signature="e#146#165#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -238,10 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TraceObject/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
-          <folding>
-            <element signature="e#139#158#0" expanded="true" />
-          </folding>
+        <state line="27" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.53856385" vertical-offset="0" max-vertical-offset="752">
+          <folding />
         </state>
       </provider>
     </entry>
